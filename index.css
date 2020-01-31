@@ -368,6 +368,7 @@ h1 {
 	border-bottom: 2px solid black;
 	justify-content: center;
 	align-content: center;
+	margin: 0 2%;
 }
 
 /* Articles */
@@ -396,6 +397,7 @@ h1 {
 	border-bottom: 2px solid black;
 	justify-content: center;
 	align-content: center;
+	margin: 0 2%;
 }
 
 .color-list {
